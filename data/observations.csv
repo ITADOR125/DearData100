@@ -4,3 +4,4 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 3,2026-10-09 12:30,Tea Order,Cafe,180,People watched,3
 4,2026-10-09 14:10,Elevator,Building Lobby,30,Fidgeted,1
 5,2026-10-09 18:05,Bus Arrival,Bus Stop,420,Listened to music,4
+6,2026-10-09 16:49,Defrost chicken,Kitchen,8 minutes,Tiktok,2
