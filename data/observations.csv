@@ -9,4 +9,5 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 8,2026-10-10 20:14,Waiting for my friends to join call,Home,300,listen to music,1
 9,2026-10-11 11:58,Waiting for game to launch,Home,60,listen to music,5
 10,2026-10-11 13:02,Waiting for Netflix to load,10,fidget,1
-11,2026-10-11 14:23,Waiting for haircut,900,2
+11,2026-10-11 14:23,Waiting for haircut,900,tiktok,2
+12,2026-10-11 16:43,Returning items to shop,10,watch people,1
