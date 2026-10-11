@@ -7,4 +7,5 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 6,2026-10-09 16:49,Defrost chicken,Kitchen,480,Tiktok,2
 7,2026-10-10 18:20,Finish the shift,Work,600,fidget,1
 8,2026-10-10 20:14,Waiting for my friends to join call,Home,300,listen to music,1
-9,2026-10-11 11:58,Waitibg for game to launch,Home,60,listen to music,5
+9,2026-10-11 11:58,Waiting for game to launch,Home,60,listen to music,5
+10,2026-10-11 13:02,Waiting for Netflix to load,10,fidget,1
