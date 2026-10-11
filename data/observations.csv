@@ -11,3 +11,4 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 10,2026-10-11 13:02,Waiting for Netflix to load,10,fidget,1
 11,2026-10-11 14:23,Waiting for haircut,900,tiktok,2
 12,2026-10-11 16:43,Returning items to shop,10,watch people,1
+13,2026-10-11 20:28,Waiting for enemies to be found in game,120,1
