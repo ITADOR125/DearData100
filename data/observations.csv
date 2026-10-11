@@ -15,3 +15,4 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 14,2026-10-11 20:37,Waiting for second round,talk to friends,20,1
 15,2026-10-11 20:51,waiting for game to start,talk to friends,20,1
 16,2026-10-11 21:00,wating for next round to start,talk to friends,30,1
+17,2026-10-11 21:09,waiting for game to be found,talk to friends,120,5
