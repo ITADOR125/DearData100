@@ -4,21 +4,21 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 3,2026-10-09 12:30,Tea Order,Cafe,180,People watched,3
 4,2026-10-09 14:10,Elevator,Building Lobby,30,Fidgeted,1
 5,2026-10-09 18:05,Bus Arrival,Bus Stop,420,Listened to music,4
-6,2026-10-09 16:49,Defrost chicken,Kitchen,480,Tiktok,2
-7,2026-10-10 18:20,Finish the shift,Work,600,fidget,1
-8,2026-10-10 20:14,Waiting for my friends to join call,Home,300,listen to music,1
-9,2026-10-11 11:58,Waiting for game to launch,Home,60,listen to music,5
-10,2026-10-11 13:02,Waiting for Netflix to load,10,fidget,1
-11,2026-10-11 14:23,Waiting for haircut,900,tiktok,2
-12,2026-10-11 16:43,Returning items to shop,10,watch people,1
-13,2026-10-11 20:28,Waiting for enemies to be found in game,talk to my friends,120,1
-14,2026-10-11 20:37,Waiting for second round,talk to friends,20,1
-15,2026-10-11 20:51,waiting for game to start,talk to friends,20,1
-16,2026-10-11 21:00,wating for next round to start,talk to friends,30,1
-17,2026-10-11 21:09,waiting for game to be found,talk to friends,120,5
-18,2026-10-12 07:30,waiting for the bus,text friend,60,1
-19,2026-10-12 07:50,waiting for the train,listen to music,60,1
-20,2026-10-12 8:50,waiting for lecture to start,tiktok,600,1
-21,2026-10-12 10:58,waiting for traffic light,watch people,10,1
-22,2026-10-12 11:07,waiting for computer to load,20,1
-23,2026-10-12 11:53,waiting for website to load,5,1
+6,2026-10-09 16:49,Defrost chicken,Kitchen,480,TikTok,2
+7,2026-10-10 18:20,Finish the shift,Work,600,Fidgeted,1
+8,2026-10-10 20:14,Waiting for my friends to join call,Home,300,Listened to music,1
+9,2026-10-11 11:58,Waiting for game to launch,Home,60,Listened to music,5
+10,2026-10-11 13:02,Waiting for Netflix to load,Home,10,Fidgeted,1
+11,2026-10-11 14:23,Waiting for haircut,Barbershop,900,TikTok,2
+12,2026-10-11 16:43,Returning items to shop,Shop,10,People watched,1
+13,2026-10-11 20:28,Waiting for enemies to be found in game,Home,120,Talked to friends,1
+14,2026-10-11 20:37,Waiting for second round,Home,20,Talked to friends,1
+15,2026-10-11 20:51,Waiting for game to start,Home,20,Talked to friends,1
+16,2026-10-11 21:00,Waiting for next round to start,Home,30,Talked to friends,1
+17,2026-10-11 21:09,Waiting for game to be found,Home,120,Talked to friends,5
+18,2026-10-12 07:30,Waiting for the bus,Bus Stop,60,Texted friend,1
+19,2026-10-12 07:50,Waiting for the train,Train Station,60,Listened to music,1
+20,2026-10-12 08:50,Waiting for lecture to start,Uni,600,TikTok,1
+21,2026-10-12 10:58,Waiting for traffic light,Street,10,People watched,1
+22,2026-10-12 11:07,Waiting for computer to load,Uni,20,Stared at screen,1
+23,2026-10-12 11:53,Waiting for website to load,Uni,5,Stared at screen,1
