@@ -4,4 +4,98 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 3,2026-10-09 12:30,Tea Order,Cafe,180,People watched,3
 4,2026-10-09 14:10,Elevator,Building Lobby,30,Fidgeted,1
 5,2026-10-09 18:05,Bus Arrival,Bus Stop,420,Listened to music,4
-6,2026-10-09 16:49,Defrost chicken,Kitchen,480,Tiktok,2
+6,2026-10-09 16:49,Defrost chicken,Kitchen,480,TikTok,2
+7,2026-10-10 18:20,Finish the shift,Work,600,Fidgeted,1
+8,2026-10-10 20:14,Waiting for my friends to join call,Home,300,Listened to music,1
+9,2026-10-11 11:58,Waiting for game to launch,Home,60,Listened to music,5
+10,2026-10-11 13:02,Waiting for Netflix to load,Home,10,Fidgeted,1
+11,2026-10-11 14:23,Waiting for haircut,Barbershop,900,TikTok,2
+12,2026-10-11 16:43,Returning items to shop,Shop,10,People watched,1
+13,2026-10-11 20:28,Waiting for enemies to be found in game,Home,120,Talked to friends,1
+14,2026-10-11 20:37,Waiting for second round,Home,20,Talked to friends,1
+15,2026-10-11 20:51,Waiting for game to start,Home,20,Talked to friends,1
+16,2026-10-11 21:00,Waiting for next round to start,Home,30,Talked to friends,1
+17,2026-10-11 21:09,Waiting for game to be found,Home,120,Talked to friends,5
+18,2026-10-12 07:30,Waiting for the bus,Bus Stop,60,Texted friend,1
+19,2026-10-12 07:50,Waiting for the train,Train Station,60,Listened to music,1
+20,2026-10-12 08:50,Waiting for lecture to start,Uni,600,TikTok,1
+21,2026-10-12 10:58,Waiting for traffic light,Street,10,People watched,1
+22,2026-10-12 11:07,Waiting for computer to load,Uni,20,Stared at screen,1
+23,2026-10-12 11:53,Waiting for website to load,Uni,5,Stared at screen,1
+24,2026-10-12 13:17,Waiting for microwave in canteen,Uni,240,TikTok,3
+25,2026-10-12 15:43,Waiting for vending machine,Uni,180,Fidgeted,2
+26,2026-10-12 17:09,Waiting for bus home,Bus Stop,360,Listened to music,3
+27,2026-10-12 19:51,Waiting for water to boil,Kitchen,300,TikTok,1
+28,2026-10-12 21:03,Waiting for Discord update,Home,45,Stared at screen,2
+29,2026-10-12 21:47,Waiting for match queue,Home,150,Talked to friends,2
+30,2026-10-12 22:18,Waiting for lobby leader to press start,Home,90,Talked to friends,3
+31,2026-10-13 07:38,Waiting for bus,Bus Stop,120,Texted friend,1
+32,2026-10-13 08:11,Waiting for train,Train Station,180,Listened to music,2
+33,2026-10-13 08:53,Waiting for seminar room to open,Uni,300,TikTok,2
+34,2026-10-13 10:24,Waiting for coffee order,Cafe,210,People watched,2
+35,2026-10-13 12:07,Waiting for code to compile,Uni,25,Stared at screen,1
+36,2026-10-13 14:19,Waiting for friend at entrance,Uni,420,TikTok,3
+37,2026-10-13 16:43,Waiting for supermarket checkout,Shop,300,Looked at phone,3
+38,2026-10-13 18:27,Waiting for oven to preheat,Kitchen,600,TikTok,1
+39,2026-10-13 20:52,Waiting for Steam update download,Home,360,Listened to music,3
+40,2026-10-13 21:34,Waiting for game lobby to fill,Home,180,Talked to friends,2
+41,2026-10-14 07:43,Waiting for traffic light,Street,35,Looked at phone,1
+42,2026-10-14 08:17,Waiting for train,Train Station,240,Listened to music,2
+43,2026-10-14 09:03,Waiting for lecture to start,Uni,480,TikTok,1
+44,2026-10-14 11:29,Waiting for elevator,Uni,45,Fidgeted,2
+45,2026-10-14 13:12,Waiting for lunch food order,Uni,540,TikTok,4
+46,2026-10-14 15:37,Waiting for VS Code extension install,Uni,15,Stared at screen,1
+47,2026-10-14 17:48,Waiting for bus in rain,Bus Stop,600,Listened to music,5
+48,2026-10-14 19:21,Waiting for delivery person,Home,720,Looked at phone,3
+49,2026-10-14 21:14,Waiting for teammate to reconnect,Home,240,Talked to friends,4
+50,2026-10-14 21:53,Waiting for game search,Home,90,Talked to friends,1
+51,2026-10-15 07:34,Waiting for bus,Bus Stop,90,Texted friend,1
+52,2026-10-15 08:49,Waiting for lecturer to set up projector,Uni,180,Fidgeted,2
+53,2026-10-15 10:21,Waiting for Git push to complete,Uni,20,Stared at screen,1
+54,2026-10-15 12:47,Waiting for microwave,Uni,180,People watched,2
+55,2026-10-15 14:18,Waiting for assignment feedback load,Uni,600,TikTok,2
+56,2026-10-15 16:33,Waiting for self-checkout machine,Shop,120,Looked at phone,2
+57,2026-10-15 18:11,Waiting for washing machine cycle,Home,300,TikTok,1
+58,2026-10-15 20:29,Waiting for game graphics shaders to load,Home,80,Listened to music,3
+59,2026-10-15 20:56,Waiting for friends to finish match,Home,420,Watched stream,2
+60,2026-10-15 22:13,Waiting for YouTube video ad to skip,Home,15,Fidgeted,2
+61,2026-10-15 22:48,Waiting for custom game lobby to fill,Home,300,Talked to friends,2
+62,2026-10-16 08:12,Waiting for pedestrian crossing,Street,50,People watched,1
+63,2026-10-16 08:51,Waiting for bus to start route,Bus Stop,300,Listened to music,2
+64,2026-10-16 09:23,Waiting for train platform announcement,Train Station,150,Listened to music,2
+65,2026-10-16 10:14,Waiting for classroom doors to unlock,Uni,360,TikTok,2
+66,2026-10-16 11:23,Waiting for laptop battery to charge enough,Uni,240,Looked at phone,2
+67,2026-10-16 12:05,Waiting for Java code compilation,Uni,18,Stared at screen,1
+68,2026-10-16 12:43,Waiting for shoes to dry after rain,Home,1200,TikTok,1
+69,2026-10-16 13:14,Waiting for free computer desk in lab,Uni,300,Listened to music,2
+70,2026-10-16 13:41,Waiting for tea to cool down,Uni,300,TikTok,1
+71,2026-10-16 14:05,Waiting in lunch queue,Uni,420,TikTok,3
+72,2026-10-16 14:26,Waiting for parcel collection counter line,Shop,360,People watched,3
+73,2026-10-16 14:48,Waiting for Processing sketch to render,Uni,12,Stared at screen,1
+74,2026-10-16 15:29,Waiting for bus home,Bus Stop,480,Listened to music,3
+75,2026-10-16 16:11,Waiting for phone battery to hit 20 percent,Home,180,Looked at phone,2
+76,2026-10-16 16:49,Waiting for bus stop traffic to clear,Street,180,People watched,2
+77,2026-10-16 17:28,Waiting for train doors to open,Train Station,45,Fidgeted,1
+78,2026-10-16 17:52,Waiting for shift start,Work,420,Texted friend,2
+79,2026-10-16 18:04,Waiting for Uber to accept ride,Street,110,Fidgeted,3
+80,2026-10-16 18:49,Waiting for pharmacy prescription,Shop,720,People watched,3
+81,2026-10-16 19:02,Waiting for rice to cook,Kitchen,900,TikTok,1
+82,2026-10-16 19:12,Waiting for oven timer,Kitchen,240,TikTok,1
+83,2026-10-16 19:42,Waiting for kettle to boil,Kitchen,180,TikTok,1
+84,2026-10-16 20:19,Waiting for pizza order to arrive,Home,1500,TikTok,3
+85,2026-10-16 20:34,Waiting for Discord screen share stream to buffer,Home,40,Talked to friends,2
+86,2026-10-16 20:58,Waiting for game queue after decline,Home,190,Talked to friends,3
+87,2026-10-16 21:08,Waiting for party leader to queue up,Home,120,Talked to friends,2
+88,2026-10-16 21:39,Waiting for match loading screen,Home,50,Stared at screen,1
+89,2026-10-16 21:41,Waiting for map loading screen,Home,35,Stared at screen,1
+90,2026-10-16 21:42,Waiting for server maintenance to finish,Home,420,Talked to friends,4
+91,2026-10-16 22:15,Waiting for game update patch to extract,Home,280,Listened to music,3
+92,2026-10-16 22:28,Waiting for takeaway order,Home,900,TikTok,3
+93,2026-10-16 22:31,Waiting for match victory screen to pass,Home,25,Stared at screen,1
+94,2026-10-16 22:50,Waiting for washing machine door to unlock,Home,120,Fidgeted,2
+95,2026-10-16 23:05,Waiting for friend to reply to text,Home,480,Looked at phone,3
+96,2026-10-16 23:20,Waiting for morning lecture slides to upload,Home,180,Stared at screen,1
+97,2026-10-16 23:35,Waiting for video export to finish,Home,310,Stared at screen,2
+98,2026-10-16 23:42,Waiting for phone to sync back up,Home,60,Looked at phone,1
+99,2026-10-16 23:51,Waiting for alarm to set,Home,15,Fidgeted,1
+100,2026-10-16 23:58,Waiting to fall asleep,Home,600,Listened to music,1
