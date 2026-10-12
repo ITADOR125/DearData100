@@ -59,13 +59,43 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 58,2026-10-15 20:29,Waiting for game graphics shaders to load,Home,80,Listened to music,3
 59,2026-10-15 20:56,Waiting for friends to finish match,Home,420,Watched stream,2
 60,2026-10-15 22:13,Waiting for YouTube video ad to skip,Home,15,Fidgeted,2
-61,2026-10-16 08:12,Waiting for pedestrian crossing,Street,50,People watched,1
-62,2026-10-16 13:14,Waiting for free computer desk in lab,Uni,300,Listened to music,2
-63,2026-10-16 11:23,Waiting for laptop battery to charge enough,Uni,240,Looked at phone,2
-64,2026-10-16 13:41,Waiting for tea to cool down,Uni,300,TikTok,1
-65,2026-10-16 15:29,Waiting for bus home,Bus Stop,480,Listened to music,3
-66,2026-10-16 17:52,Waiting for shift start,Work,420,Texted friend,2
-67,2026-10-16 22:28,Waiting for takeaway order,Home,900,TikTok,3
-68,2026-10-16 23:17,Waiting for custom game lobby to fill,Home,300,Talked to friends,2
-69,2026-10-17 12:43,Waiting for shoes to dry after rain,Home,1200,TikTok,1
-70,2026-10-17 14:26,Waiting for parcel collection counter line,Shop,360,People watched,3
+61,2026-10-15 22:48,Waiting for custom game lobby to fill,Home,300,Talked to friends,2
+62,2026-10-16 08:12,Waiting for pedestrian crossing,Street,50,People watched,1
+63,2026-10-16 08:51,Waiting for bus to start route,Bus Stop,300,Listened to music,2
+64,2026-10-16 09:23,Waiting for train platform announcement,Train Station,150,Listened to music,2
+65,2026-10-16 10:14,Waiting for classroom doors to unlock,Uni,360,TikTok,2
+66,2026-10-16 11:23,Waiting for laptop battery to charge enough,Uni,240,Looked at phone,2
+67,2026-10-16 12:05,Waiting for Java code compilation,Uni,18,Stared at screen,1
+68,2026-10-16 12:43,Waiting for shoes to dry after rain,Home,1200,TikTok,1
+69,2026-10-16 13:14,Waiting for free computer desk in lab,Uni,300,Listened to music,2
+70,2026-10-16 13:41,Waiting for tea to cool down,Uni,300,TikTok,1
+71,2026-10-16 14:05,Waiting in lunch queue,Uni,420,TikTok,3
+72,2026-10-16 14:26,Waiting for parcel collection counter line,Shop,360,People watched,3
+73,2026-10-16 14:48,Waiting for Processing sketch to render,Uni,12,Stared at screen,1
+74,2026-10-16 15:29,Waiting for bus home,Bus Stop,480,Listened to music,3
+75,2026-10-16 16:11,Waiting for phone battery to hit 20 percent,Home,180,Looked at phone,2
+76,2026-10-16 16:49,Waiting for bus stop traffic to clear,Street,180,People watched,2
+77,2026-10-16 17:28,Waiting for train doors to open,Train Station,45,Fidgeted,1
+78,2026-10-16 17:52,Waiting for shift start,Work,420,Texted friend,2
+79,2026-10-16 18:04,Waiting for Uber to accept ride,Street,110,Fidgeted,3
+80,2026-10-16 18:49,Waiting for pharmacy prescription,Shop,720,People watched,3
+81,2026-10-16 19:02,Waiting for rice to cook,Kitchen,900,TikTok,1
+82,2026-10-16 19:12,Waiting for oven timer,Kitchen,240,TikTok,1
+83,2026-10-16 19:42,Waiting for kettle to boil,Kitchen,180,TikTok,1
+84,2026-10-16 20:19,Waiting for pizza order to arrive,Home,1500,TikTok,3
+85,2026-10-16 20:34,Waiting for Discord screen share stream to buffer,Home,40,Talked to friends,2
+86,2026-10-16 20:58,Waiting for game queue after decline,Home,190,Talked to friends,3
+87,2026-10-16 21:08,Waiting for party leader to queue up,Home,120,Talked to friends,2
+88,2026-10-16 21:39,Waiting for match loading screen,Home,50,Stared at screen,1
+89,2026-10-16 21:41,Waiting for map loading screen,Home,35,Stared at screen,1
+90,2026-10-16 21:42,Waiting for server maintenance to finish,Home,420,Talked to friends,4
+91,2026-10-16 22:15,Waiting for game update patch to extract,Home,280,Listened to music,3
+92,2026-10-16 22:28,Waiting for takeaway order,Home,900,TikTok,3
+93,2026-10-16 22:31,Waiting for match victory screen to pass,Home,25,Stared at screen,1
+94,2026-10-16 22:50,Waiting for washing machine door to unlock,Home,120,Fidgeted,2
+95,2026-10-16 23:05,Waiting for friend to reply to text,Home,480,Looked at phone,3
+96,2026-10-16 23:20,Waiting for morning lecture slides to upload,Home,180,Stared at screen,1
+97,2026-10-16 23:35,Waiting for video export to finish,Home,310,Stared at screen,2
+98,2026-10-16 23:42,Waiting for phone to sync back up,Home,60,Looked at phone,1
+99,2026-10-16 23:51,Waiting for alarm to set,Home,15,Fidgeted,1
+100,2026-10-16 23:58,Waiting to fall asleep,Home,600,Listened to music,1
