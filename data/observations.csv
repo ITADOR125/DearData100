@@ -16,3 +16,5 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 15,2026-10-11 20:51,waiting for game to start,talk to friends,20,1
 16,2026-10-11 21:00,wating for next round to start,talk to friends,30,1
 17,2026-10-11 21:09,waiting for game to be found,talk to friends,120,5
+18,2026-10-12 07:30,waiting for the bus,text friend,60,1
+19,2026-10-12 07:50,waiting for the train,listen to music,60,1
