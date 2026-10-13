@@ -5,6 +5,8 @@ void setup() {
   background(246, 243, 236);
   
   table = loadTable("observations.csv", "header");
+  println("Loaded " + table.getRowCount() + " rows!");
+
   noLoop();
 }
 
@@ -122,81 +124,116 @@ void drawWaitReasonSymbol(float x, float y, String reason) {
 }
 
 color getFrustrationColor(int level) {
-  if (level == 1) return color(60, 160, 210);   // Calm Cyan
-  else if (level == 2) return color(80, 170, 110);  // Sage Green
-  else if (level == 3) return color(240, 180, 40);  // Yellow
-  else if (level == 4) return color(240, 110, 40);  // Orange
-  else return color(220, 40, 40);                   // Frustrated Red
+  if (level == 1) return color(60, 160, 210);
+  else if (level == 2) return color(80, 170, 110);
+  else if (level == 3) return color(240, 180, 40);
+  else if (level == 4) return color(240, 110, 40);
+  else return color(220, 40, 40);
 }
 
 void drawLegend() {
   float ly = height - 60;
   stroke(180);
   strokeWeight(1.5);
-  line(60, ly - 30, width - 60, ly - 30);
+  line(60, ly - 35, width - 60, ly - 35);
 
   fill(30);
   textSize(12);
   textAlign(LEFT, CENTER);
-  text("LEGEND KEY:", 60, ly);
+  text("LEGEND KEY:", 60, ly - 10);
 
-  text("Frustration (1-5):", 150, ly);
+  text("Frustration (1-5):", 150, ly - 10);
   for (int f = 1; f <= 5; f++) {
     fill(getFrustrationColor(f));
     stroke(30);
     strokeWeight(1);
     rectMode(CORNER);
-    rect(260 + ((f - 1) * 24), ly - 9, 18, 16, 2);
+    rect(250 + ((f - 1) * 20), ly - 18, 14, 15, 2);
   }
 
   fill(30);
-  text("Location (Shape):", 400, ly);
+  text("Location:", 360, ly - 10);
   
   fill(200);
   stroke(30);
-  ellipse(515, ly, 14, 14);
+  ellipse(420, ly - 10, 12, 12);
   fill(50);
-  textSize(10.5);
-  text("Home", 526, ly);
+  textSize(10);
+  text("Home", 430, ly - 10);
 
   fill(200);
   rectMode(CENTER);
-  rect(570, ly, 13, 13);
+  rect(470, ly - 10, 11, 11);
   fill(50);
-  text("Uni", 580, ly);
+  text("Uni", 478, ly - 10);
 
   fill(200);
-  triangle(615, ly - 7, 608, ly + 6, 622, ly + 6);
+  triangle(505, ly - 16, 499, ly - 5, 511, ly - 5);
   fill(50);
-  text("Transit", 627, ly);
+  text("Transit", 516, ly - 10);
+
+  // Line Height / Duration Key
+  fill(30);
+  textSize(12);
+  text("Wait Time:", 565, ly - 10);
+  stroke(100);
+  strokeWeight(2);
+  line(635, ly - 4, 635, ly - 12);
+  line(645, ly - 2, 645, ly - 18);
+  fill(50);
+  textSize(10);
+  text("Line Height = Duration", 652, ly - 10);
 
   fill(30);
   textSize(12);
-  text("Waiting For (Inner Symbol):", 680, ly);
+  text("Waiting For:", 775, ly - 10);
 
   stroke(30);
   strokeWeight(1.5);
-  line(850, ly - 4, 858, ly + 4);
-  line(858, ly - 4, 850, ly + 4);
+  line(850, ly - 14, 858, ly - 6);
+  line(858, ly - 14, 850, ly - 6);
   fill(50);
-  textSize(10.5);
-  text("Tech/Gaming", 864, ly);
+  textSize(10);
+  text("Tech", 863, ly - 10);
 
-  line(945, ly - 2, 955, ly - 2);
-  line(945, ly + 2, 955, ly + 2);
-  text("Transit", 960, ly);
+  line(895, ly - 12, 905, ly - 12);
+  line(895, ly - 8, 905, ly - 8);
+  text("Transit", 910, ly - 10);
 
   pushMatrix();
-  translate(1015, ly);
+  translate(955, ly - 10);
   rotate(QUARTER_PI);
   rectMode(CENTER);
   rect(0, 0, 5, 5);
   popMatrix();
   fill(50);
-  text("Food/Kitchen", 1023, ly);
+  text("Food", 963, ly - 10);
 
   fill(30);
-  ellipse(1110, ly, 5, 5);
+  ellipse(998, ly - 10, 5, 5);
   fill(50);
-  text("Routine/Uni", 1118, ly);
+  text("Routine", 1005, ly - 10);
+
+  fill(30);
+  textSize(12);
+  text("Coping:", 1055, ly - 10);
+
+  fill(30);
+  ellipse(1105, ly - 10, 5, 5);
+  fill(50);
+  textSize(10);
+  text("Phone", 1113, ly - 10);
+
+  noFill();
+  stroke(30);
+  strokeWeight(1.5);
+  ellipse(1155, ly - 10, 14, 14);
+  fill(50);
+  text("Music/Friends", 1165, ly - 10);
+
+  stroke(30);
+  strokeWeight(2);
+  line(1245, ly - 10, 1259, ly - 10);
+  fill(50);
+  text("Stared/Fidgeted", 1265, ly - 10);
 }
