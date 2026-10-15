@@ -98,4 +98,4 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 97,2026-10-16 23:35,Waiting for video export to finish,Home,310,Stared at screen,2
 98,2026-10-16 23:42,Waiting for phone to sync back up,Home,60,Looked at phone,1
 99,2026-10-16 23:51,Waiting for alarm to set,Home,15,Fidgeted,1
-100,2026-10-16 23:58,Waiting to fall asleep,Home,600,Listened to music,1
+100,2026-10-16 23:58,Waiting to fall asleep,Home,600,Listened to music,2
