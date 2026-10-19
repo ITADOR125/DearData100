@@ -87,7 +87,7 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 86,2026-10-16 20:58,Waiting for game queue after decline,Home,190,Talked to friends,3
 87,2026-10-16 21:08,Waiting for party leader to queue up,Home,120,Talked to friends,2
 88,2026-10-16 21:39,Waiting for match loading screen,Home,50,Stared at screen,1
-89,2026-10-16 21:41,Waiting for map loading screen,Home,35,Stared at screen,1
+89,2026-10-16 21:41,Waiting for map loading screen,Home,35,Stared at screen,2
 90,2026-10-16 21:42,Waiting for server maintenance to finish,Home,420,Talked to friends,4
 91,2026-10-16 22:15,Waiting for game update patch to extract,Home,280,Listened to music,3
 92,2026-10-16 22:28,Waiting for takeaway order,Home,900,TikTok,3
