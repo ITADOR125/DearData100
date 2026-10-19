@@ -1,3 +1,14 @@
+Brief description of the project:
+i.The topic that I chose is moments of waiting and how much do I normally wait during a day and there are a lot of things that I am collecting around this which is id, time ,date, what I do while i wait and how much i waited approximately and my frustration level.
+ii. I have collected all 100 items.
+
+
+
+
+
+
+
+
 **Task 3:**
 **What aspects of the phenomena that are being studied are recorded?**
 For my first example I chose week 2 which follows the researchers journey on how they travel to different places and with who they travel to specific places and it highlights if they took public transport or walked.
