@@ -4,7 +4,7 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 3,2026-10-09 12:30,Tea Order,Cafe,180,People watched,3
 4,2026-10-09 14:10,Elevator,Building Lobby,30,Fidgeted,1
 5,2026-10-09 18:05,Bus Arrival,Bus Stop,420,Listened to music,4
-6,2026-10-09 16:49,Defrost chicken,Kitchen,480,TikTok,2
+6,2026-10-09 16:49,Defrost chicken,Kitchen,480,TikTok,1
 7,2026-10-10 18:20,Finish the shift,Work,600,Fidgeted,1
 8,2026-10-10 20:14,Waiting for my friends to join call,Home,300,Listened to music,1
 9,2026-10-11 11:58,Waiting for game to launch,Home,60,Listened to music,5
