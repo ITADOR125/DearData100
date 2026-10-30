@@ -2,7 +2,7 @@ id,timestamp,wait_reason,location,perceived_wait_sec,coping_action,frustration_l
 1,2026-10-09 08:15,Traffic Light,Street,45,Looked at phone,2
 2,2026-10-09 09:02,Code Compiling,Desk,12,Stared at screen,1
 3,2026-10-09 12:30,Tea Order,Cafe,180,People watched,3
-4,2026-10-09 14:10,Elevator,Building Lobby,30,Fidgeted,1
+4,2026-10-09 14:10,Elevator,Building Lobby,30,Fidgeted,2
 5,2026-10-09 18:05,Bus Arrival,Bus Stop,420,Listened to music,4
 6,2026-10-09 16:49,Defrost chicken,Kitchen,480,TikTok,1
 7,2026-10-10 18:20,Finish the shift,Work,600,Fidgeted,1
